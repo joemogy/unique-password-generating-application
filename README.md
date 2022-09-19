@@ -1,5 +1,7 @@
 # unique-password-generating-application
 
+https://joemogy.github.io/unique-password-generating-application/
+
 ## Description
 
 Short discription
@@ -32,6 +34,7 @@ The following image shows the web application's appearance and functionality:
 
 ![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
 
+https://joemogy.github.io/unique-password-generating-application/
 
 ## Installation
 
@@ -66,8 +69,11 @@ in new
 
 ##live Link
 
+-https://joemogy.github.io/unique-password-generating-application/
+https://joemogy.github.io/unique-password-generating-application/
 
 ##Credits
+
   https://eloquentjavascript.net/
   https://www.w3schools.com/html/default.asp
   https://www.w3schools.com/css/css_howto.asp
