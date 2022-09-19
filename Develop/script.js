@@ -9,6 +9,12 @@ function generatePassword() {
     alert("Password must be between 8 and 128 characters");
     return;
   }
+  
+  //prompt user to choose lowercase, uppercase, numeric, and/or special characters
+  var passwordLowercase = confirm("Would you like to include lowercase letters?");
+  var passwordUppercase = confirm("Would you like to include uppercase letters?");
+  var passwordNumeric = confirm("Would you like to include numbers?");
+  var passwordSpecial = confirm("Would you like to include special characters?");
 }
 // Write password to the #password input
 function writePassword() {
